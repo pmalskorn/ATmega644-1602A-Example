@@ -1,0 +1,3 @@
+[submodule "lib/ATmega644-1602A"]
+	path = lib/ATmega644-1602A
+	url = https://github.com/pmalskorn/ATmega644-1602A
